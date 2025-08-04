@@ -16,7 +16,7 @@
 		비밀번호 확인 : <input type="password" name="mpwCheck"><br><br>
 		이름 : <input type="text" name="mname"><br><br>
 		이메일 : <input type="text" name="memail"><br><br>
-		주소 : 이름 : <input type="text" name="maddr"><br><br>
+		주소 : <input type="text" name="maddr"><br><br>
 		<input type="button" value="회원가입" onclick="joinCheck()">
 	</form>
 </body>
